@@ -1,0 +1,17 @@
+{
+	"name": "Screen Recorder",
+	"short_name": "Screen Recorder",
+	"description": "A simple screen recorder",
+	"icons": [
+		{
+			"src": "assets/recording144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/index.html",
+	"display": "fullscreen",
+	"theme_color": "#20C7AA",
+	"background_color": "#1380A4"
+
+}
