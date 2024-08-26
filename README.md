@@ -4,6 +4,10 @@ A simple screen recorder made with [MediaRecorder](https://developer.mozilla.org
 
 It only accept webm format.
 
+## Running
+
+If you want to run this project locally just run `npm start`. No dependencies needed.
+
 ## TODO
  * add light theme
  * add i18n
