@@ -11,6 +11,7 @@ If you want to run this project locally just run `npm start`. No dependencies ne
 ## TODO
  * add light theme
  * add i18n
+ * add support to more video format
  * make it a pwa
  * replace poster image by a background-color
  * add webcam recording
